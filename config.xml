@@ -1,0 +1,16 @@
+/* CSS Document */
+<?xml version="1.0" encodint="utf-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+    xlmns:gap="http://phonegap.com/ns/1.0"
+   id ="com.phonegap.example"
+   version="1.0.0">
+   <icon src="images/th.jpg" gap:platform="android" />
+   <name> NTPS VOCATIONAL HIGH SCHOOL </name>
+   <description>
+   about a vocational high school introduce
+   </description>
+   <author email="dragonenator@gmail.com">
+   LUNGSHENG-SUN
+   </author>	
+   </widget>
+
